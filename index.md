@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Privacy Policy Chim Hót
 
-You can use the [editor on GitHub](https://github.com/leduyhung/policy.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- July 27, 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><b>The application Chim Hót as a Free app, that doesn't collect any user data, no cost and is intended for use as is.</b></p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information Collection and Use
+<p>The app does use third-party services that may collect information used to identify you.</p>
+<p>Link to privacy policy of third party service providers used by the app</p<
 
-```markdown
-Syntax highlighted code block
+- [Google Play Services](https://policies.google.com/privacy)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- [Firebase Analytics](https://firebase.google.com/policies/analytics/)
 
-# Header 1
-## Header 2
-### Header 3
+### Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-- Bulleted
-- List
+### Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leduyhung/policy.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me.
+leduyhung1192@gmail.com
