@@ -8,10 +8,11 @@
 ### Information Collection and Use
 <p>The app does use third-party services that may collect information used to identify you.</p>
 <p>Link to privacy policy of third party service providers used by the app</p<
-
-  - <a href="https://policies.google.com/privacy>Google">Play Services</a>
-  - <a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a>
-  - <a href="https://firebase.google.com/policies/analytics/">Firebase Analytics</a>
+<ul>
+  <li><a href="https://policies.google.com/privacy>Google">Play Services</a></li>
+  <li><a href="https://support.google.com/admob/answer/6128543?hl=en">AdMob</a></li>
+  <li><a href="https://firebase.google.com/policies/analytics/">Firebase Analytics</a></li>
+</ul>
 
 ### Security
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
